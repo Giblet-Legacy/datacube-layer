@@ -1,0 +1,5 @@
+# VERSION — P13 DataCube (datacube-layer)
+# Function: the current release version of this layer. Advances only on freeze.
+# 1.0.0 — P13 frozen. Tests pass (25/25).
+
+1.0.0
