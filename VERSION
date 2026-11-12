@@ -1,5 +1,7 @@
 # VERSION — P13 DataCube (datacube-layer)
 # Function: the current release version of this layer. Advances only on freeze.
 # 1.0.0 — P13 frozen. Tests pass (25/25).
+# 2.0.0 — datacube_v2.py hardened layer frozen (SPEC_V2.md). v1 25/25, v2 73/73.
+#         datacube.py unchanged.
 
-1.0.0
+2.0.0

@@ -14,4 +14,4 @@ Depends:  P12 Rules, P14 Leighton Engine
 Consumed: P15 HAL, SC-OS, The Cockpit
 Licence:  MSL-1.0
 Author:   James Gilbert (Giblets Forge)
-Status:   0.0.0-dev (in build, pre-freeze)
+Status:   2.0.0 (v1 frozen; new code imports datacube_v2 — see SPEC_V2.md)
