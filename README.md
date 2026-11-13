@@ -14,4 +14,5 @@ Depends:  P12 Rules, P14 Leighton Engine
 Consumed: P15 HAL, SC-OS, The Cockpit
 Licence:  MSL-1.0
 Author:   James Gilbert (Giblets Forge)
-Status:   2.0.0 (v1 frozen; new code imports datacube_v2 — see SPEC_V2.md)
+Status:   2.0.0 (v1 frozen; new code imports datacube_v2 — see SPEC_V2.md).
+          datacube_v3.py (SPEC_V3.md: polarity-aware Keystone Gate) frozen at 3.0.0.

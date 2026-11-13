@@ -3,6 +3,11 @@
 NOTES.md — open questions, divergences and decisions for P13 DataCube.
 
 ## Open questions
+
+- **Freeze datacube_v3 at 3.0.0?** Polarity-aware Keystone Gate
+  (SPEC_V3.md). Built and green on the laptop (104/104). Not yet run on
+  the S24. Raised 2026-11-13. Owner: James.
+  **Resolved 2026-11-13 — James: "freeze commmit and push".** Frozen on the laptop run; S24 run still to be confirmed.
 - Trust weighting: should a FACT with low λ (P14) still block an
   UNKNOWN outright, or only above a threshold? Needs a P14 consumer
   decision before v3.

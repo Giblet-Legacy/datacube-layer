@@ -4,4 +4,6 @@
 # 2.0.0 — datacube_v2.py hardened layer frozen (SPEC_V2.md). v1 25/25, v2 73/73.
 #         datacube.py unchanged.
 
-2.0.0
+# 3.0.0 — datacube_v3.py frozen (SPEC_V3.md: polarity-aware Keystone Gate). 104/104 (v1 25, v2 73, v3 6). Tests pass on the laptop; S24 run to be confirmed.
+
+3.0.0

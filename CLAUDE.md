@@ -22,3 +22,8 @@ Every function MUST have a numbered header.
 
 ## Keystone Gate Rule (CRITICAL)
 An UNKNOWN hypothesis cannot contradict a FACT, COUNTER, or CONTEXT face. The gate fires on write. If a contradiction is detected, the claim is rejected before it enters memory.
+
+## v3 layer
+`datacube_v3.py` (SPEC_V3.md, frozen 3.0.0): the gate refuses an UNKNOWN only
+for the same subject and object with the opposite polarity, so a subject can hold
+many claims. v2's rule is `contradicts_v2`. Cockpit v1.3 gates through v3.
